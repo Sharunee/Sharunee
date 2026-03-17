@@ -1,19 +1,17 @@
--Hi there 👋 I'm Sharunee
+Hi there 👋 I'm Sharunee
 
 💻 Passionate about coding, problem-solving, and building practical projects.
 
-🌱 I’m currently undergraduate of Department of Computer science , Faculty of Science, university of ruhuna. And currently exploring Machine Learning and IoT Security.
+🌱 I’m an undergraduate at the Department of Computer Science, Faculty of Science, University of Ruhuna, currently focusing on IoT Security and software development.
 
-⚡ Love experimenting with new tech and creating impactful solutions.
+⚡ I enjoy experimenting with new technologies and creating impactful solutions.
 
 🔧 Tech Stack
-Languages: Java, C++, JavaScript
+Languages: Java, C++, JavaScript, HTML, CSS, PHP, SQL
+Frameworks & Technologies: React.js, React Native, Node.js, Express, Tailwind CSS
+Databases: MySQL, MongoDB
+Tools: Git, Bitbucket, VS Code, Google Colab
 
-Frameworks: React Native, Node.js
+💡 Core Skills: Problem-solving, teamwork, adaptability, analytical thinking, time management
 
-Tools: Git, VS Code, HeidiSQL
-
-Special Interests: Cybersecurity (IoT), Encryption
-
-
-
+🔐 Special Interests: Cybersecurity (IoT), Encryption
